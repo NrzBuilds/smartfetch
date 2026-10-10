@@ -37,5 +37,5 @@ Built with **Streamlit**, **LangChain**, and **FAISS**, SmartFetch combines Retr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/smartfetch.git
+git clone https://github.com/NrzBuilds/smartfetch.git
 cd smartfetch
